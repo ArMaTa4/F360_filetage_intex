@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Intexv2</Name>
+  <CustomName>ArMaTa</CustomName>
+  <Unit>mm</Unit>
+  <Angle>63,43</Angle>
+  <SortOrder>1</SortOrder>
+  <ThreadSize>
+    <Size>60</Size>
+    <Designation>
+      <ThreadDesignation>Pas2.5mm</ThreadDesignation>
+      <Pitch>2.54</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>Default</Class>
+<MajorDia>61</MajorDia>
+<PitchDia>59</PitchDia>
+<MinorDia>57</MinorDia>
+
+</Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>Default</Class>
+<MajorDia>61</MajorDia>
+<PitchDia>59</PitchDia>
+<MinorDia>57</MinorDia>
+
+</Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
