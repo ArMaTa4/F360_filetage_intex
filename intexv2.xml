@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ThreadType>
   <Name>Intexv2</Name>
-  <CustomName>ArMaTa</CustomName>
+  <CustomName>Intexv2</CustomName>
   <Unit>mm</Unit>
   <Angle>63,43</Angle>
   <SortOrder>1</SortOrder>
@@ -13,19 +13,17 @@
       <Thread>
         <Gender>external</Gender>
         <Class>Default</Class>
-<MajorDia>61</MajorDia>
-<PitchDia>59</PitchDia>
-<MinorDia>57</MinorDia>
-
-</Thread>
+        <MajorDia>60</MajorDia>
+        <PitchDia>58</PitchDia>
+        <MinorDia>56</MinorDia>
+      </Thread>
       <Thread>
         <Gender>internal</Gender>
         <Class>Default</Class>
-<MajorDia>61</MajorDia>
-<PitchDia>59</PitchDia>
-<MinorDia>57</MinorDia>
-
-</Thread>
+        <MajorDia>60</MajorDia>
+        <PitchDia>58</PitchDia>
+        <MinorDia>56</MinorDia>
+      </Thread>
     </Designation>
   </ThreadSize>
 </ThreadType>
